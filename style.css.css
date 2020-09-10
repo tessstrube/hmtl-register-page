@@ -1,0 +1,25 @@
+body {
+        background-color: dodgerblue;
+        margin: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .topnav {
+        overflow: hidden;
+        background-color: rgb(255, 255, 255);
+      }
+      
+      #myBtn {
+        float: right;
+        background-color: #0084ff;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      #myBtn:hover {
+        background: #ddd;
+        color: black;
+     
+    }
+
